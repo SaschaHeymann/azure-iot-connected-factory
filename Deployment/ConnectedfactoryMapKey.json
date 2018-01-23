@@ -42,7 +42,7 @@
         },
         "mapApiQueryKey": {
             "type": "string",
-            "defaultValue": "0",
+            "defaultValue": "12345",
             "metadata": {
                 "description": "Bing Maps Api Query key - default is disabled"
             }
